@@ -60,4 +60,3 @@ public class Match {
         this.minutos_gols = minutos_gols;
     }
 }
-

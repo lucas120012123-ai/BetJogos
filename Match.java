@@ -24,6 +24,7 @@ public class Match {
         return adversario;
     }
 
+
     public void setAdversario(String adversario) {
         this.adversario = adversario;
     }
@@ -60,4 +61,3 @@ public class Match {
         this.minutos_gols = minutos_gols;
     }
 }
-

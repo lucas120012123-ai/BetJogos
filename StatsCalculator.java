@@ -1,4 +1,6 @@
 //Parte Feita por Micael
+//StatsCalculator
+//Responsável por Receber os Dados
 //probabilityScoredFirst45(matches)
 //Calcula a probabilidade de sair gol no primeiro tempo
 //2-averageGoalMinute(matches)

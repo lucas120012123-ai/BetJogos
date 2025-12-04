@@ -1,5 +1,12 @@
+/*
+ Classe responsável por conectar ao banco e buscar
+ os últimos 10 jogos de um clube. Ela abre a conexão,
+ executa a consulta SQL e transforma cada resultado
+  em um objeto Match antes de devolver a lista.
+ */
+
 package Teste;
-//test
+
 import java.sql.*;
 import java.time.LocalDate;
 import java.util.ArrayList;

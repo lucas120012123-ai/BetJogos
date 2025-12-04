@@ -1,4 +1,21 @@
-
+/*
+ * Classe Match
+ * -------------
+ * Representa uma partida de futebol e armazena:
+ *
+ * - clube: nome do time principal
+ * - adversario: nome do time adversário
+ * - data_partida: data em que o jogo ocorreu
+ * - gols_marcados_45: gols feitos no primeiro tempo
+ * - gols_sofridos_45: gols sofridos no primeiro tempo
+ * - minutos_gols: lista com os minutos em que os gols foram marcados
+ *
+ * A classe possui métodos GET para acessar as informações
+ * e métodos SET para alterar cada dado.
+ *
+ * Ela funciona como um modelo (objeto) para guardar e organizar
+ * os dados de uma partida dentro do sistema.
+ */
  
 package Teste;
 

@@ -1,4 +1,11 @@
 //Parte Feita por Micael
+//probabilityScoredFirst45(matches)
+//Calcula a probabilidade de sair gol no primeiro tempo
+//2-averageGoalMinute(matches)
+//Calcula em que qual media ele Faz o gol no Primeiro tempo
+//3- parseMinutes(csvString)
+//Converte uma String em Número
+ 
 package Teste;
  
 import java.util.Arrays;
